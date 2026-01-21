@@ -1,0 +1,29 @@
+{
+  "info": {
+    "_postman_id": "5c21e98d-9d9c-45b8-9ddc-e5aa9647e83f",
+    "name": "Microservicios-Config-server",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "24966089"
+  },
+  "item": [
+    {
+      "name": "localhost:8081/hotels-service/default",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "localhost:8081/hotels-service/default",
+          "host": [
+            "localhost"
+          ],
+          "port": "8081",
+          "path": [
+            "hotels-service",
+            "default"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
